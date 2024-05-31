@@ -11,7 +11,7 @@ When run, the boilerplate shows a multi-coloured wireframe cube, with `OrbitCont
 ## Installing
 
 ```bash
-git clone https://github.com/Sean-Bradley/Three.js-Boilerplate-TS-Vite.git
+git clone https://github.com/Aryandeep15/Three.js-Boilerplate-Learning-main
 cd Three.js-Boilerplate-TS-Vite
 npm install
 ```
